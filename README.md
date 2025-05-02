@@ -8,8 +8,8 @@ A secure password manager with encryption and a GUI built using Python and Tkint
 - Simple and easy-to-use GUI.
 
 ## Screenshots
-![Screenshot1](password_manager_screenshot1.png)
-![Screenshot2](password_manager_screenshot2.png)
+![Screenshot1](password_manager_screenshot1.png.png)
+![Screenshot2](password_manager_screenshot2.png.png)
 
 ## How to Run
 1. Clone the repository.

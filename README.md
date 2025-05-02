@@ -1,24 +1,34 @@
-#  Password Manager - Python
+# Password Manager
 
-A secure Password Manager using **Python**, **Tkinter**, and **Cryptography** library.
+A secure password manager with encryption and a GUI built using Python and Tkinter.
 
----
+## Features
+- Add, retrieve, and delete passwords.
+- All passwords are securely encrypted.
+- Simple and easy-to-use GUI.
 
-## Features:
-- Secure encryption of passwords (Fernet AES encryption).
-- Simple and clean graphical user interface (GUI).
-- Master Password protection before access.
-- Store and view passwords safely.
+## Screenshots
+![Screenshot1](password_manager_screenshot1.png)
+![Screenshot2](password_manager_screenshot2.png)
 
----
+## How to Run
+1. Clone the repository.
+2. Install required libraries:
+3. Run `password_manager_gui.py`:
 
-## How to Run:
-1. Install Python 3.x.
-2. Install libraries:
-   ```bash
-   pip install cryptography
+## Technologies Used
+- Python
+- Tkinter
+- Cryptography library
 
-   ## Screenshots:
+## Future Improvements
+- Password generator.
+- Cloud backup option.
+- Multi-user support.
 
-[Password Manager GUI](password_manager_screenshot.png)
+## Author
+[Ananya1718](https://github.com/Ananya1718)
+
+
+
 

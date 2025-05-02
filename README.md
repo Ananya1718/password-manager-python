@@ -17,3 +17,8 @@ A secure Password Manager using **Python**, **Tkinter**, and **Cryptography** li
 2. Install libraries:
    ```bash
    pip install cryptography
+
+   ## Screenshots:
+
+[Password Manager GUI](password_manager_screenshot.png)
+
